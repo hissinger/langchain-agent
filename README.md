@@ -1,4 +1,4 @@
-# Chat Agent Sample with LangChain
+# ReAct Chatbot Sample with LangChain
 
 This is a simple ReAct chatbot that uses the LangChain API to generate responses to user input.
 
